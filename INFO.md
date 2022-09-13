@@ -1,2 +1,1 @@
-first line
-new line
+first line\nnew line
