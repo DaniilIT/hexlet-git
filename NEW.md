@@ -1,1 +1,1 @@
-I'm new
+git is awesome!
